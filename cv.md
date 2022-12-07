@@ -1,6 +1,6 @@
 
 
-**# Natallia Karachun**
+# **Natallia Karachun**
 ****
 
 ## **UX/UI designer (junior)**
