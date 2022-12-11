@@ -26,7 +26,7 @@ I am currently working as a civil engineer. I like to design comfortable and bea
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
 + GeekBrains UX/UI designer  
 
-### **Languages:**
+#### **Languages:**
 + Russian - Native   
 + English - A1  
 + Polish - basic  
