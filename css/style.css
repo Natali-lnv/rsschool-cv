@@ -16,7 +16,6 @@ body {
     font-weight: 600;
 }
 .container {
-    max-width: 120vh;
     margin: 10px;
     border: 4px solid #111415;
     background-image: linear-gradient(to bottom left, #558baa, #b39cbb);
