@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+  }
+body {
+    font-family: 'Mulish', sans-serif;
+    background-image: linear-gradient(to bottom left, #8BA5B4, #b39cbb);
+    background-color: #8BA5B4;
+    color: #111415;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    line-height: 1.3;
+    text-align: center;
+    font-weight: 600;
+}
+.container {
+    margin: 10px;
+    border: 4px solid #111415;
+    background-image: linear-gradient(to bottom left, #558baa, #b39cbb);
+    background-color: #8BA5B4;
+    font-weight: bold;
+}
+.nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: space-between;
+}   
+.nav-link {
+    margin: 10px;
+    text-decoration: none;
+    color: #011727;
+  }
+  html {
+    scroll-behavior: smooth; 
+  }
+  .main {
+
+  }
+  img.my-foto {
+    width: 300px;
+    border-radius: 50px;
+    border: 10px solid #9e6a97;
+    
+  }
+  .RS-logo {
+    width: 100px;
+  }
+  .footer {
+    max-width: 120vh;
+    margin: 10px;
+    border: 2px solid #111415;
+    background-image: linear-gradient(to bottom left, #558baa, #b39cbb);
+    background-color: #8BA5B4;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .author {
+    margin: 10px;
+    text-decoration: none;
+    color: #011727;
+    font-weight: 600;
+    text-decoration: underline;
+  }
+  .list {
+    list-style: none;
+  }
+  .contact-list {
+    list-style: none;
+    font-weight: 600;
+  }
+  .text-header {
+    background-color: #9a85b3;
+    padding: 10px 10px 10px 10px;
+  }
+  .code {
+    background-color: #a196b1;
+    padding: 10px 10px 10px 10px;
+  }
+  .contact-info {
+    background-color: #a294b4;
+    padding: 10px 10px 10px 10px;
+  }
+  .edukation {
+    background-color: #949eb4;
+    padding: 10px 10px 10px 10px;
+  }
+  .skills {
+    background-color: #9781a5;
+    padding: 10px 10px 10px 10px;
+  }
+  .about-me {
+    background-color: #9fa4c2;
+    padding: 10px 10px 10px 10px;
+  }
+  .languages {
+    background-color: #ae9cb9;
+    padding: 10px 10px 10px 10px;
+  }
