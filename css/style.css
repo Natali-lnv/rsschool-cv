@@ -54,7 +54,7 @@ body {
     background-color: #8BA5B4;
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+
   }
   .header {
     margin: 10px;
@@ -77,8 +77,9 @@ body {
     font-weight: 600;
   }
   .text-header {
-    background-color: #9a85b3;
     padding: 10px 10px 10px 10px;
+    width: 800px;
+    margin: 0 auto;
   }
   .code {
     background-color: #a196b1;
@@ -100,9 +101,17 @@ body {
     justify-content: center;
     background-color: #9fa4c2;
     padding: 10px 10px 10px 10px;
-    width: 100%
+    width: 100%;
   }
   .languages {
     background-color: #ae9cb9;
     padding: 10px 10px 10px 10px;
+  }
+  .text-footer {
+    padding: 10px 10px 10px 10px;
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
   }
